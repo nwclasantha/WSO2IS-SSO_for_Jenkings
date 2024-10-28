@@ -1,5 +1,7 @@
 ### **Introduction**
 
+![image](https://github.com/user-attachments/assets/a94306f9-dde3-487e-a398-dad2a80e6c5b)
+
 Single Sign-On (SSO) is a centralized authentication mechanism that allows users to log in once and gain access to multiple, separate applications without needing to authenticate again. Integrating Jenkins, a popular continuous integration/continuous deployment (CI/CD) tool, with WSO2 Identity Server (WSO2 IS), a robust identity and access management solution, via SAML-based SSO provides seamless access for users. By establishing WSO2 IS as the Identity Provider (IdP) for Jenkins, organizations can streamline access management, improve user experience, and enhance security across their DevOps environments.
 
 ---
