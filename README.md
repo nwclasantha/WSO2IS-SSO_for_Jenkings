@@ -35,6 +35,8 @@ Implementing SSO between WSO2 IS and Jenkins introduces several security require
 
 ---
 
+![QTDUsarfupxe8GvYE6ou3c](https://github.com/user-attachments/assets/fa2704e2-0ed7-4e6d-93dc-4fe59529bf09)
+
 The fully detailed guide with step-by-step instructions to set up SSO between WSO2 Identity Server (IS) at `192.168.0.31` and Jenkins at `192.168.0.30` using SAML. 
 
 ### Step 1: Set Up WSO2 Identity Server (IS) as the SAML Identity Provider
